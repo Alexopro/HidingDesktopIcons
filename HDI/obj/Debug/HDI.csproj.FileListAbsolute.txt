@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\bin\Debug\HDI.exe.config
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\bin\Debug\HDI.exe
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\bin\Debug\HDI.pdb
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.Form1.resources
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.exe
+C:\Users\Alex\Documents\GitHub\HidingDesktopIcons\HDI\obj\Debug\HDI.pdb
